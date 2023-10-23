@@ -17,7 +17,9 @@ This is the third revision of the board: the Arduino Single-Sided Serial version
 
 [Schematic (.png)](//www.arduino.cc/en/uploads/Main/ArduinoSeverinoSchematic.png) 
 
-[EAGLE files (.zip)](//www.arduino.cc/en/uploads/Main/Arduino%5FS3v3%5FR2%5FEAGLE%5Fagain.zip) 
+[Old (before v6) EAGLE files (.zip)](//www.arduino.cc/en/uploads/Main/Arduino%5FS3v3%5FR2%5FEAGLE%5Fagain.zip) 
+
+[New (after v6) EAGLE files (.7z)](//www.arduino.cc/en/uploads/Main/<file_converted>.7z) 
 
 [Manual (.pdf)](//www.arduino.cc/en/uploads/Main/ArduinoSeverinoManual2.pdf) 
 
